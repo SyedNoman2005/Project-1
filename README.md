@@ -6,9 +6,6 @@ An interactive 3D particle visualization system that responds to real-time hand 
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
-## 🎮 Live Demo
-
-[Click here to try it live!](https://your-demo-link.com)
 
 ## ✨ Features
 
